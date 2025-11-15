@@ -1,0 +1,5 @@
+{
+  "name": " Chatbot",
+  "description": "A simple chatbot that provides concise replies and can solve mathematical calculations. Ask it anything, or give it a math problem like '5 * (10 + 2)'.",
+  "requestFramePermissions": []
+}
